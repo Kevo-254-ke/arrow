@@ -22,7 +22,7 @@ try {
 module.exports = {
   defaultPrefix: '.',
   defaultOwnerName: 'Kevo Loves',
-  ownerNumber: '254795430544',
+  ownerNumber: '254739165562',
   sessionID: process.env.SESSION_ID || ''
   // Arrow-MD≈
   // get session ID from https://devkevo-arrow-md-pair-site.hf.space
